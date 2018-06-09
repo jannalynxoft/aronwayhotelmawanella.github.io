@@ -6598,10 +6598,11 @@ button.close {
         .gallery-our.wrap-gallery-restaurant .gallery-restaurant ul li.active > a {
           border: 1px solid transparent;
           color: #fff;
-          background: #8e7037; }
+          background: #484f68; }
           .gallery-our.wrap-gallery-restaurant .gallery-restaurant ul li.active > a:hover, .gallery-our.wrap-gallery-restaurant .gallery-restaurant ul li.active > a:focus {
             color: #fff;
-            background-color: #8e7037;
+            /*background-color: #8e7037;*/
+            background-color: #484f68;
             border: 1px solid transparent;
             cursor: pointer; }
         .gallery-our.wrap-gallery-restaurant .gallery-restaurant ul li a {
@@ -6619,7 +6620,8 @@ button.close {
             .gallery-our.wrap-gallery-restaurant .gallery-restaurant ul li a {
               padding: 6px 10px; } }
           .gallery-our.wrap-gallery-restaurant .gallery-restaurant ul li a:hover, .gallery-our.wrap-gallery-restaurant .gallery-restaurant ul li a:focus {
-            background: #8E7037;
+            /*background: #8E7037;*/
+            background:#484f68; 
             outline: none;
             color: #fff;
             border: 1px solid transparent; }
